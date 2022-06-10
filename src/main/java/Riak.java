@@ -70,7 +70,7 @@ public class Riak {
             DeleteValue deleteOp = new DeleteValue.Builder(quoteObjectLocation)
                     .build();
             client.execute(deleteOp);
-            System.out.println("Usunieto poprawnie");
+            System.out.println("Usunięto: " + deleteOp);
 
             fetchOp = new FetchValue.Builder(quoteObjectLocation)
                     .build();
