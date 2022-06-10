@@ -1,5 +1,5 @@
 Obiekt zapisany do bazy: Adam Nowak
 Obiekt pobrany z bazy: {"name":"Adam","lastName":"Nowak"}
 Obiekt pobrany z bazy po update: {"name":"Adam","lastName":"Kowalski"}
-Usunieto poprawnie
+Usunięto: {location: {namespace: {type: default, bucket: s17579}, key: id1}, options: {}, vClock: null}
 Brak szukanego obiektu
